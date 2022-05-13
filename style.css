@@ -1,0 +1,25 @@
+body {
+  background-image: url('img/wallpapersden.com_pokemon-pikachu-art_1920x1080.jpg');
+  background-size: cover;
+
+
+   @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Roboto:wght@300&display=swap');
+
+   font-family: 'Inter', sans-serif;
+   color: #f6bd20;
+   text-shadow: 2px 2px black;
+   font-size: 20pt;
+}
+
+label {
+    color: #f6bd20;
+    font-weight: bold;
+}
+
+.caixa {
+    padding-top: 20px;
+    color: #f6bd20;
+    text-shadow: 2px 2px black;
+    font-weight: bold;
+}
+
